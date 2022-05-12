@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "bookName": "Белый пароход ",
+      "bookAuthor": "Чынгыз Айтматов",
+      "bookImage": "https://akniga.org/uploads/media/topic/2019/03/22/08/preview/5442410ed254b668a15e_400x.jpg",
+      "bookPrice": "550 сом",
+      "id": 1
+    },
+    {
+      "bookName": "Иди туда где страшно",
+      "bookAuthor": "Джим Лоурес",
+      "bookImage": "https://books.google.kg/books/publisher/content?id=sNRvDwAAQBAJ&hl=ru&pg=PP1&img=1&zoom=3&sig=ACfU3U0z1NE3CyeoFbYzkdcOdIZrwmbdVQ&w=1280",
+      "bookPrice": "630 сом",
+      "id": 2
+    },
+    {
+      "bookName": "БезЦельная Жизнь",
+      "bookAuthor": "Джек Конфилд",
+      "bookImage": "https://s1.livelib.ru/boocover/1000467412/200/6b21/boocover.jpg",
+      "bookPrice": "369",
+      "id": 3
+    }
+  ]
+}
